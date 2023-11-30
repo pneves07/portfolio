@@ -1,0 +1,17 @@
+.caixa {
+  background: linear-gradient(to right, #3498db, #2c3e50);
+  color: white;
+  height: 100vh; /* Define a altura para ocupar 100% da altura da janela */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column; /* Adicionado para centralizar o conteúdo verticalmente */
+}
+
+.container h1 {
+  font-size: 3em;
+}
+
+.container i {
+  font-size: 2em;
+}
