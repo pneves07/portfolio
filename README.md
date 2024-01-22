@@ -1,2 +1,2 @@
 # portfolio
-Just for fun.
+Just for fun. For now
